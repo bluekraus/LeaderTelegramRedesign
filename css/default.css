@@ -1833,7 +1833,7 @@
     position: absolute;
     width: 25%;
     z-index: 3;
-    top: 685px;
+    top: 635px;
     left: 280px;
    
 }    
@@ -1843,23 +1843,28 @@
     position: absolute;
     width: 25%;
     z-index: 3;
-    top: 1315px;
+    top: 1170px;
     left: 280px;
    
 }       
     
 .featurepic3 {
     position: absolute;
-    width: 15%;
+    width: 13%;
     z-index: 3;
-    top: 1915px;
-    left: 450px;
+    top: 2055px;
+    left: 480px;
    
 }        
     
     
     
+.video {
+    position: absolute;
+    top: 1710px;
+    left: 140px;
     
+}    
     
     
     
